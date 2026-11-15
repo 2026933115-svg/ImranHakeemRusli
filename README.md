@@ -1,2 +1,0 @@
-# ImranHakeemRusli
-Assignment 1
